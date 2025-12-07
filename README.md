@@ -1,6 +1,10 @@
 # On-Chain Mood-to-Music Recommender
 
 This project is a decentralized application (dApp) that suggests music playlists to users based on their mood. The recommendation engine is powered by on-chain community statistics stored in a smart contract on the ShimmerEVM Testnet.
+
+
+
+
 Contract Address
 Network: Devnet
 Package ID: 0x8b4f3bb8fd773e4d92957116db692844a8c057e2cd1f8d564daa6efaba084438
