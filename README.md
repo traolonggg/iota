@@ -112,3 +112,4 @@ Final recommendation: Playlist "Summer Hits"
 - **Spotify/Apple Music API**: Replace the local `playlists.json` with a real-time API from a major music streaming service.
 - **Oracle for Trending Music**: An oracle could feed on-chain data about trending genres or songs, enriching the recommendations.
 - **Tokenomics**: Introduce a token to reward users for contributing high-quality data or curating playlists.
+<img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/f8e512a4-e371-48f9-bbc7-736fc554a9f6" />
