@@ -8,7 +8,7 @@ This project is a decentralized application (dApp) that suggests music playlists
 Contract Address
 Network: Devnet
 Package ID: 0x8b4f3bb8fd773e4d92957116db692844a8c057e2cd1f8d564daa6efaba084438
-Explorer: View on Explorer
+Explorer: [View on Explorer](https://explorer.iota.org/object/0x47b416f0aa7901e561086213c055ebf86075e0985f0da60a480924b08083a68e?network=devnet)
 ## Features
 
 - **Decentralized Recommendations**: Playlist suggestions are based on what the community listens to for a given mood.
