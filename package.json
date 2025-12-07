@@ -1,0 +1,25 @@
+{
+  "name": "on-chain-mood-recommender",
+  "version": "1.0.0",
+  "description": "Users submit mood; system suggests playlists via on-chain community mood stats.",
+  "main": "dist/src/recommender.js",
+  "scripts": {
+    "build": "tsc",
+    "deploy": "npx hardhat run scripts/deploy.ts --network shimmer_testnet",
+    "demo": "ts-node scripts/demo.ts",
+    "test": "npx hardhat test"
+  },
+  "author": "GitHub Copilot",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@types/node": "^20.12.12",
+    "hardhat": "^2.22.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "ethers": "^6.12.1"
+  }
+}

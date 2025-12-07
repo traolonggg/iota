@@ -1,0 +1,42 @@
+{
+  "Pop": [
+    {
+      "name": "Summer Hits",
+      "genre": "Pop",
+      "url": "https://www.youtube.com/playlist?list=PLMC9KNkIncKtPzgY-5rmFq4J49kFeiB2L"
+    },
+    {
+      "name": "Top 40",
+      "genre": "Pop",
+      "url": "https://www.youtube.com/playlist?list=PL-g3nN2L0aeXy3qPA0x3dG4gWJ32R22d4"
+    }
+  ],
+  "Rock": [
+    {
+      "name": "Classic Rock Anthems",
+      "genre": "Rock",
+      "url": "https://www.youtube.com/playlist?list=PL9-p0n2hA6p2ICiF5R23nSj2A-y0W-3sP"
+    }
+  ],
+  "Jazz": [
+    {
+      "name": "Late Night Jazz",
+      "genre": "Jazz",
+      "url": "https://www.youtube.com/playlist?list=PL8F6B0753B2CCA128"
+    }
+  ],
+  "Classical": [
+    {
+      "name": "Focus Classical",
+      "genre": "Classical",
+      "url": "https://www.youtube.com/playlist?list=PL_7-2z-2a_n1Qk0c-B2a0jYpYj4gA3b3Z"
+    }
+  ],
+  "Electronic": [
+    {
+      "name": "Chill Electronic",
+      "genre": "Electronic",
+      "url": "https://www.youtube.com/playlist?list=PL51B943E3D9995A57"
+    }
+  ]
+}
